@@ -5,6 +5,6 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("Another line");
         System.out.println("And another");
-        System.out.println("My branch");
+        System.out.println("My branch published");
     }
 }
